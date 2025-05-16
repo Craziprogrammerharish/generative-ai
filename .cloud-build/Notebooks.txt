@@ -14,8 +14,10 @@ generative-ai/gemini/context-caching/intro_context_caching.ipynb
 generative-ai/gemini/controlled-generation/intro_controlled_generation.ipynb
 generative-ai/gemini/function-calling/intro_function_calling.ipynb
 generative-ai/gemini/global-endpoint/intro_global_endpoint.ipynb
+generative-ai/gemini/long-context/intro_long_context.ipynb
 generative-ai/gemini/model-optimizer/intro_model_optimizer.ipynb
 generative-ai/gemini/multimodal-live-api/intro_multimodal_live_api_genai_sdk.ipynb
+generative-ai/gemini/orchestration/intro_langchain_gemini.ipynb
 generative-ai/gemini/orchestration/intro_langgraph_gemini.ipynb
 generative-ai/gemini/prompts/intro_prompt_design.ipynb
 generative-ai/gemini/prompts/examples/chain_of_thought_react.ipynb
